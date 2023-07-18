@@ -1,0 +1,13 @@
+﻿  manager.cpp
+  orderFile.cpp
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(34,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(42,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(50,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(58,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(66,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\orderFile.cpp(74,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+  机房预约系统入口.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> D:\杨帆（文件存储）\求职\C++\个人项目\机房预约系统\x64\Debug\机房预约系统.exe
